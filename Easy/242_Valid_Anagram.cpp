@@ -2,6 +2,7 @@
 Links:
 https://leetcode.com/problems/valid-anagram/
 https://practice.geeksforgeeks.org/problems/anagram-1587115620/1
+https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1
 
 anagram is when one string is a permutation of other string and vice versa
 so how can we check if two string are anagrams.
